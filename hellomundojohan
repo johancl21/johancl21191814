@@ -1,0 +1,8 @@
+public class uno {
+
+public static Main (arg [] String)
+
+System.out.println("hola mundo");
+}
+
+
